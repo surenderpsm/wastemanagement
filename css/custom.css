@@ -1,11 +1,10 @@
 .col-sm-4{
     padding-top: 1rem;
-    
 }
 
 .card.order-view{
     width: 27rem;
-    height: 12.5rem;
+    height: 15rem;
 }
 
 .card.order-view .card-body{
@@ -53,3 +52,8 @@
     width: 40px;
 }
 
+.card.order-view .address{
+    color:darkgrey;
+    padding-left: 0.5rem;
+    font-family: Helvetica;
+}
